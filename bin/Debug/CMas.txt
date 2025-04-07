@@ -1,0 +1,6 @@
+Agustín | avenida 99 | 20-13113091-1 | Chile | C# | C++ | 
+
+Angela | Street 541 | 27-26549910-9 | Uruguay | C++ | 
+
+Alex | Boulveard 82 | 30-59490730-9 | Brasil | C# | C++ | JavaScript | 
+
